@@ -1,0 +1,16 @@
+Crie um roteiro de podcast para uma instituição financeira, com foco na implantação do uso de IA nas operações de instituição financeira, abordando segurança da informação. O nome do posdcast é "Conexão IA", subtítulo: A IA como aliada no futuro das instituições financeiras. O público alvo são os gestores de uma instituição financeira.
+o formato do roteiro deve ser:
+[INTRODUÇÃO]
+[DICA 1]
+[DICA 2]
+[SEGURANÇA DA INFORMAÇÃO]
+[CONCLUSÃO]
+
+{REGRAS}
+- No bloco [INTRODUÇÃO] - substitua por uma saudação "BEM VINDOS AO NOSSO PODCAST INSTITUIÇÃO FINANCEIRA EM FOCO"  e contextualize o tema IA e sua importância
+- No bloco [DICA 1] - apresente uma sugestão de um tipo de uso de IA em operações de instituição financeira.
+- No bloco [DICA 2] - apresente outra sugestão de tipo de uso de IA em operações de instituição financeira.
+- No bloco [SEGURANÇA DA INFORMAÇÃO] - apresente os cuidados que a instituição deve ter, no que se refere à segurança da informação, quando do uso de IA em suas operações.
+- No bloco [CONCLUSÃO] - substitua por um texto sobre a importância de se utilizar IA para o futuro das instituições financeiras e insira uma despedida "Esse foi o PODCAST INSTITUIÇÃO FINANCEIRA EM FOCO desta semana".
+- o podcast será apresentado somente por uma pessoa, chamada ALEXA.
+- o podcast deve ser curto e não pode ultrapassar 5 minutos de duração.

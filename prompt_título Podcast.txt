@@ -1,0 +1,9 @@
+Criando o título do PODCAST
+
+Você é um roteirista de podcast e irá criar um podcast para uma instituição financeira, com foco na utilização de IA nas operações da instituição financeira. Por favor, crie 5 opções de nomes criativos e formais para esse podcast.
+O podcast irá falar sobre como implantar o uso de IA nas instituições financeiras públicas, abordando questões de segurança da informação.
+{REGRAS}
+- o nome deve ser enxuto
+- apresentar nome e subtítulo
+- o nome deve conter alguma palavra que remeta IA
+- o nome não pode conter palavras em inglês
